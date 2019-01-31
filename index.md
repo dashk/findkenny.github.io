@@ -1,5 +1,5 @@
 # Kenny Wong
-> This is just an easier way to find Kenny :)
+> Hi :)
 
 ## Experience
 ### Software Engineer @ Simon Data, Washiongton DC, 2018 - Current

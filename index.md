@@ -1,4 +1,4 @@
-# Kenny Wong
+# Kenny W
 > Hi :)
 
 ## Experience

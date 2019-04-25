@@ -4,13 +4,13 @@
 ## Experience
 ### Software Engineer @ Simon Data, Washiongton DC, 2018 - Current
 > Stack: AWS (Kinesis, Dynamo, RDS, Lambda), Python, Javascript
-   * Full stack development - From Javascript+CSS to Django to event processing on AWS
+   * Full stack development - From Javascript+CSS to Django to event processing (Lambda) on AWS
 
 ### Senior Software Engineer (Backend) @ Box, SF Bay Area CA, 2015-2018
 > Stack: Scala, SQL, Python, PHP, JavaScript 
    * Optimized data pipeline (ETL) by reducing overall runtime by 30%, and improving SLA from <50% to 90%+. Managed the backlog on pipeline improvement, established process on task prioritization, and provided user education on best practices through bi-weekly newsletter, documentation & consulting session with data analytics and scientists.
    * Worked with infrastructure & operation engineers to migrate Hadoop data warehouse from an in-house data center to AWS. Established canonical schemas in the warehouse, and migrated both data (3 PB) and data pipeline workflows to the new environment.
-   * Reduced operation metrics processing & hosting cost by 40%.
+   * Worked with other engineers to reduce operation metrics processing & hosting cost by 40%.
    * Together with business/product analysts, helped product and engineering teams launching features successfully through the use of analytics and experimentation by developing common libraries, defining & refining experiment/product success metrics (Overall evaluation criteria,) and automating common workflows to improve efficiency.
    * Worked closely with Marketing and Growth engineering team to integrate Adobe Analytics/Omniture with sign-up flows, allowing both teams to improve sign up and payment completion rate through data-driven process and experimentation.
 

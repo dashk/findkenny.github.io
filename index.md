@@ -2,7 +2,7 @@
 > Hi :)
 
 ## Experience
-### Software Engineer @ Simon Data, Washiongton DC, 2018 - Current
+### Software Engineer @ Simon Data, Washington DC, 2018 - Current
 > Stack: AWS (Kinesis, Dynamo, RDS, Lambda), Python, Javascript
    * Full stack development - From Javascript+CSS to Django to event processing (Lambda) on AWS
 
